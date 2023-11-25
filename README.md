@@ -8,7 +8,6 @@
     
 ### About me 
 - 15 years old
-- Live in Russia 
-- I'm currently learning **Web Developing with Python** and **Algorithms** 
-- Two years in programming 
-- Want to find job as a **Python Software Developer**
+- From Russia 
+- I'm currently learning **Web Developing with Python**  
+
